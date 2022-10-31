@@ -10,7 +10,7 @@ Resources:
       Handler: person.demius.Handler
       Runtime: java11
       Description: Java function
-      MemorySize: 512
+      MemorySize: 128
       Timeout: 10
       # Function's execution role
       Policies:
